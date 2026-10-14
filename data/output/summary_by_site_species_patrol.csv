@@ -1,0 +1,91 @@
+Site,Species,Understory_C,Understory_D,Canopy_C,Canopy_D,Understory_A,Understory_B,Canopy_A,Canopy_B
+BUB,SP1,Diospyros_kaki,Diospyros_kaki,,,,,,
+BUB,SP2,Cleidion_brevipetiolatum,Cleidion_brevipetiolatum,,,,,,
+BUB,SP3,Orophea_laui,Orophea_laui,,,,,,
+BUB,SP4,Baccaurea_ramiflora,Baccaurea_ramiflora,,,,,,
+BUB,SP5,Garcinia_cowa,Garcinia_cowa,,,,,,
+BUB,SP6,Saprosma_ternata,Saprosma_ternata,,,,,,
+BUB,SP7,Shorea_wangtianshuea,Shorea_wangtianshuea,,,,,,
+BUB,SP8,Pittosporopsis_kerrii,Pittosporopsis_kerrii,,,,,,
+BUB,SP9,,,Diospyros_kaki,Diospyros_kaki,,,,
+BUB,SP10,,,Cleidion_brevipetiolatum,Cleidion_brevipetiolatum,,,,
+BUB,SP11,,,Orophea_laui,Orophea_laui,,,,
+BUB,SP12,,,Baccaurea_ramiflora,Baccaurea_ramiflora,,,,
+BUB,SP13,,,Garcinia_cowa,Garcinia_cowa,,,,
+BUB,SP14,,,Saprosma_ternata,Saprosma_ternata,,,,
+BUB,SP15,,,Shorea_wangtianshuea,Shorea_wangtianshuea,,,,
+BUB,SP16,,,Pittosporopsis_kerrii,Pittosporopsis_kerrii,,,,
+DRO,SP1,Syzygium_graveolens,Syzygium_graveolens,,,,,,
+DRO,SP2,Cleisthanthus_myrianthus,Cleisthanthus_myrianthus,,,Cleisthanthus_myrianthus,Cleisthanthus_myrianthus,,
+DRO,SP3,Cryptocarya_sp.,Cryptocarya_sp.,,,Cryptocarya_sp.,Cryptocarya_sp.,,
+DRO,SP4,Haplostichanthus_ramiflorus,Haplostichanthus_ramiflorus,,,Haplostichanthus_ramiflorus,Haplostichanthus_ramiflorus,,
+DRO,SP5,Myristica_globosa,Myristica_globosa,,,Myristica_globosa,Myristica_globosa,,
+DRO,SP6,Rockinghamia_angustifolia,Rockinghamia_angustifolia,,,Rockinghamia_angustifolia,Rockinghamia_angustifolia,,
+DRO,SP7,Endiandra_leptodendron,Endiandra_leptodendron,,,Endiandra_leptodendron,Endiandra_leptodendron,,
+DRO,SP8,Argyrodendron_peralatum,Argyrodendron_peralatum,,,Argyrodendron_peralatum,Argyrodendron_peralatum,,
+DRO,SP9,,,Cryptocarya_sp.,Cryptocarya_sp.,,,Cryptocarya_sp.,Cryptocarya_sp.
+DRO,SP10,,,Argyrodendron_peralatum,Argyrodendron_peralatum,,,Argyrodendron_peralatum,Argyrodendron_peralatum
+DRO,SP11,,,Myristica_globosa,Myristica_globosa,,,Myristica_globosa,Myristica_globosa
+DRO,SP12,,,Syzygium_graveolens,Syzygium_graveolens,,,Syzygium_graveolens,Syzygium_graveolens
+DRO,SP13,,,Rockinghamia_angustifolia,Rockinghamia_angustifolia,,,Rockinghamia_angustifolia,Rockinghamia_angustifolia
+DRO,SP14,,,Cleisthanthus_myrianthus,Cleisthanthus_myrianthus,,,Cleisthanthus_myrianthus,Cleisthanthus_myrianthus
+DRO,SP15,,,Dysoxylum_arborescens,Dysoxylum_arborescens,,,Dysoxylum_arborescens,Dysoxylum_arborescens
+EUC,SP1,Bursaria_spinosa,Bursaria_spinosa,,,Bursaria_spinosa,Bursaria_spinosa,,
+EUC,SP2,Acacia_parramattensis,Acacia_parramattensis,,,Acacia_parramattensis,Acacia_parramattensis,,
+EUC,SP3,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,
+EUC,SP4,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,
+EUC,SP5,Acacia_parramattensis,Acacia_parramattensis,,,Acacia_parramattensis,Acacia_parramattensis,,
+EUC,SP6,Breynia_oblingifolia,Breynia_oblingifolia,,,Breynia_oblingifolia,Breynia_oblingifolia,,
+EUC,SP7,Eucalyptus_pruinosa,Eucalyptus_pruinosa,,,Eucalyptus_pruinosa,Eucalyptus_pruinosa,,
+EUC,SP9,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis
+EUC,SP10,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis
+EUC,SP11,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis
+EUC,SP12,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis
+EUC,SP13,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis
+EUC,SP14,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis,,,Eucalyptus_tereticornis,Eucalyptus_tereticornis
+KAK,SP1,Pometia_pinnata,Pometia_pinnata,,,Pometia_pinnata,Pometia_pinnata,,
+KAK,SP2,Pimelodendron_amboinicum,Pimelodendron_amboinicum,,,Pimelodendron_amboinicum,Pimelodendron_amboinicum,,
+KAK,SP3,Dysoxylum_arborescens,Dysoxylum_arborescens,,,Dysoxylum_arborescens,Dysoxylum_arborescens,,
+KAK,SP4,Erythrospermum_candidum,Erythrospermum_candidum,,,Erythrospermum_candidum,Erythrospermum_candidum,,
+KAK,SP5,Chrysophyllum_roxburghii,Chrysophyllum_roxburghii,,,Chrysophyllum_roxburghii,Chrysophyllum_roxburghii,,
+KAK,SP6,Celtis_latifolia,Celtis_latifolia,,,Celtis_latifolia,Celtis_latifolia,,
+KAK,SP7,Gymnacranthera_paniculata,Gymnacranthera_paniculata,,,Gymnacranthera_paniculata,Gymnacranthera_paniculata,,
+KAK,SP8,Ficus_erythrosperma,Ficus_erythrosperma,,,Ficus_erythrosperma,Ficus_erythrosperma,,
+KAK,SP9,,,Pometia_pinnata,Pometia_pinnata,,,Pometia_pinnata,Pometia_pinnata
+KAK,SP10,,,Pimelodendron_amboinicum,Pimelodendron_amboinicum,,,Pimelodendron_amboinicum,Pimelodendron_amboinicum
+KAK,SP11,,,Dysoxylum_arborescens,Dysoxylum_arborescens,,,Dysoxylum_arborescens,Dysoxylum_arborescens
+KAK,SP12,,,Erythrospermum_candidum,Erythrospermum_candidum,,,Erythrospermum_candidum,Erythrospermum_candidum
+KAK,SP13,,,Chrysophyllum_roxburghii,Chrysophyllum_roxburghii,,,Chrysophyllum_roxburghii,Chrysophyllum_roxburghii
+KAK,SP14,,,Celtis_latifolia,Celtis_latifolia,,,Celtis_latifolia,Celtis_latifolia
+KAK,SP15,,,Gymnacranthera_paniculata,Gymnacranthera_paniculata,,,Gymnacranthera_paniculata,Gymnacranthera_paniculata
+KAK,SP16,,,Ficus_erythrosperma,Ficus_erythrosperma,,,Ficus_erythrosperma,Ficus_erythrosperma
+LAK,SP1,Tilia_cordata,Tilia_cordata,,,Tilia_cordata,Tilia_cordata,,
+LAK,SP2,Acer_pseudoplatanus,Acer_pseudoplatanus,,,Acer_pseudoplatanus,Acer_pseudoplatanus,,
+LAK,SP3,Fraxinus_excelsior,Fraxinus_excelsior,,,Fraxinus_excelsior,Fraxinus_excelsior,,
+LAK,SP4,Acer_platanoides,Acer_platanoides,,,Acer_platanoides,Acer_platanoides,,
+LAK,SP5,Quercus_robur,Quercus_robur,,,Quercus_robur,Quercus_robur,,
+LAK,SP6,Carpinus_betulus,Carpinus_betulus,,,Carpinus_betulus,Carpinus_betulus,,
+LAK,SP7,Ulmus_glabra,Ulmus_glabra,,,Ulmus_glabra,Ulmus_glabra,,
+LAK,SP9,,,,,,,Tilia_cordata,Tilia_cordata
+LAK,SP10,,,,,,,Acer_pseudoplatanus,Acer_pseudoplatanus
+LAK,SP11,,,,,,,Fraxinus_excelsior,Fraxinus_excelsior
+LAK,SP12,,,,,,,Acer_platanoides,Acer_platanoides
+LAK,SP13,,,,,,,Quercus_robur,Quercus_robur
+LAK,SP14,,,,,,,Carpinus_betulus,Carpinus_betulus
+LAK,SP15,,,,,,,Ulmus_glabra,Ulmus_glabra
+TOM,SP1,Magnolia kobus,Magnolia kobus,,,Magnolia kobus,Magnolia kobus,,
+TOM,SP2,Syringa reticulata,Syringa reticulata,,,Syringa reticulata,Syringa reticulata,,
+TOM,SP3,Carpinus cordata,Carpinus cordata,,,Carpinus cordata,Carpinus cordata,,
+TOM,SP4,Acer mono,Acer mono,,,Acer mono,Acer mono,,
+TOM,SP5,Prunus ssiori,Prunus ssiori,,,Prunus ssiori,Prunus ssiori,,
+TOM,SP6,Acer palmatum,Acer palmatum,,,Acer palmatum,Acer palmatum,,
+TOM,SP7,Fraxinus lanuginosa,Fraxinus lanuginosa,,,Fraxinus lanuginosa,Fraxinus lanuginosa,,
+TOM,SP8,Betulaceae,Betulaceae,,,Betulaceae,Betulaceae,,
+TOM,SP9,,,Magnolia kobus,Magnolia kobus,,,Acer mono,Acer mono
+TOM,SP10,,,,,,,Acer palmatum,Acer palmatum
+TOM,SP11,,,Carpinus cordata,Carpinus cordata,,,Fraxinus lanuginosa,Fraxinus lanuginosa
+TOM,SP12,,,Acer mono,Acer mono,,,Carpinus cordata,Carpinus cordata
+TOM,SP13,,,Prunus ssiori,Prunus ssiori,,,Magnolia kobus,Magnolia kobus
+TOM,SP14,,,Acer palmatum,Acer palmatum,,,Prunus ssiori,Prunus ssiori
+TOM,SP15,,,Fraxinus lanuginosa,Fraxinus lanuginosa,,,Betulaceae,Betulaceae
+TOM,SP16,,,Betulaceae,Betulaceae,,,,
